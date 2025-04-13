@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805563662613218055/105726e14bda466fb857e9753569dab5/artifacts
+end_time: 1744518257266
+entry_point_name: ''
+experiment_id: '805563662613218055'
+lifecycle_stage: active
+run_id: 105726e14bda466fb857e9753569dab5
+run_name: enthused-quail-683
+run_uuid: 105726e14bda466fb857e9753569dab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744518228552
+status: 3
+tags: []
+user_id: admin

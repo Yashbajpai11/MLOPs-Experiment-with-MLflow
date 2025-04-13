@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0a1e52de56f8463fa8984f75a57ae3aa/artifacts
+end_time: 1744482657580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a1e52de56f8463fa8984f75a57ae3aa
+run_name: chill-jay-935
+run_uuid: 0a1e52de56f8463fa8984f75a57ae3aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744482657430
+status: 3
+tags: []
+user_id: admin
