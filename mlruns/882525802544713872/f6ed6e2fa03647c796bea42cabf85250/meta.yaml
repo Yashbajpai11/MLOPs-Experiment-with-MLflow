@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/MLOPs-Experiment-with-MLflow/mlruns/882525802544713872/f6ed6e2fa03647c796bea42cabf85250/artifacts
+end_time: 1744523642473
+entry_point_name: ''
+experiment_id: '882525802544713872'
+lifecycle_stage: active
+run_id: f6ed6e2fa03647c796bea42cabf85250
+run_name: rebellious-grub-398
+run_uuid: f6ed6e2fa03647c796bea42cabf85250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744523621276
+status: 3
+tags: []
+user_id: admin
